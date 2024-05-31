@@ -35,5 +35,4 @@ Esta é uma calculadora de potenciação que permite ao usuário calcular o resu
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
